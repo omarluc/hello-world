@@ -1,2 +1,2 @@
 # hello-world
-sample repository
+sample repository only, ths is a test, OK
