@@ -16,6 +16,6 @@ public class HelloWorldServlet extends HttpServlet {
     /** {@inheritDoc} */
     @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().println("<p>Hello World Testing testing!</p>");
+        response.getWriter().println("<p>Hello World testing!</p>");
     }
 }
